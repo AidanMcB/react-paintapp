@@ -1,6 +1,8 @@
 # React-Paintapp
 Realtime paint collaboration using Pusher and React
 
+[View tutorial](https://pusher.com/tutorials/live-paint-react)
+
 ## Prerequisites
 - [React](https://reactjs.org/)
 - [Express](https://expressjs.com/)
